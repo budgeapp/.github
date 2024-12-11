@@ -1,3 +1,1 @@
-# Budge
-
-A budgeting and forecasting app.
+../README.md
